@@ -20,6 +20,7 @@ This project performs Exploratory Data Analysis (EDA) and data visualization on 
 ### 3. Top 10 Genres vs Popularity (Box Plot)
 * **Insight:** Comparing the top 10 most common track genres reveals noticeable differences in median popularity and interquartile ranges across distinct musical categories.
  <img width="701" height="430" alt="image" src="https://github.com/user-attachments/assets/5419450c-a0ee-419d-a57c-56ff0b7496c3" />
+ 
  <img width="953" height="455" alt="image" src="https://github.com/user-attachments/assets/84650e18-eb08-45ef-9a4b-eece6dc273fc" />
 
 
